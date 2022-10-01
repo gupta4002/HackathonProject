@@ -1,0 +1,52 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(me.png);
+    height: 70vh;
+    background-size: cover;
+    background-position: center ;
+    margin: auto;
+    padding: auto;
+}
+.form{
+    max-width: 400px;
+    margin: auto;
+    padding: auto;
+    background-color: blueviolet;
+    border-radius: 25px;
+    margin-top: 200px;
+    height: 400px;
+}
+.form-group{
+    padding: 15px;
+    margin: auto;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-group-sub{
+    margin: auto;
+    padding: auto;
+    margin-left: 30px;
+    background-color: green;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.showError{
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: red;
+    max-width: 400px;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    height: 30px;
+    padding: auto;
+}
+.form-control{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 0px;
+}
